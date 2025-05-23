@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M323", "M323\M323.csproj", "{D024FDC8-E3EA-4790-BDD0-9EC202521B42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M323", "M323\M323.csproj", "{D024FDC8-E3EA-4790-BDD0-9EC202521B42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TripPlanner", "TripPlanner\TripPlanner.csproj", "{DE2DF794-ACCE-4FB2-A560-76D101BF707E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordPoints", "WordPoints\WordPoints.csproj", "{80729351-15C8-456C-9BCA-231536367712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRace", "CarRace\CarRace.csproj", "{36B9C978-188F-42B6-83C5-EA033C07FA06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{D024FDC8-E3EA-4790-BDD0-9EC202521B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D024FDC8-E3EA-4790-BDD0-9EC202521B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D024FDC8-E3EA-4790-BDD0-9EC202521B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE2DF794-ACCE-4FB2-A560-76D101BF707E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2DF794-ACCE-4FB2-A560-76D101BF707E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2DF794-ACCE-4FB2-A560-76D101BF707E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2DF794-ACCE-4FB2-A560-76D101BF707E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80729351-15C8-456C-9BCA-231536367712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80729351-15C8-456C-9BCA-231536367712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80729351-15C8-456C-9BCA-231536367712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80729351-15C8-456C-9BCA-231536367712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B9C978-188F-42B6-83C5-EA033C07FA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9C978-188F-42B6-83C5-EA033C07FA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B9C978-188F-42B6-83C5-EA033C07FA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B9C978-188F-42B6-83C5-EA033C07FA06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
